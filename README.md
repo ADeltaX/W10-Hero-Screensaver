@@ -1,5 +1,4 @@
-# W10-Hero-Screensaver
-Windows 10 Hero Video Screensaver
+# Windows 10 Hero Screensaver Repo
 
 Do you love the animation of Windows 10 Hero? Now you can set it up as a screensaver!
 
